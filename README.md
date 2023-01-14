@@ -1,11 +1,7 @@
 ### Olá, me chamo Lucas Lozardo! <img src= "https://user-images.githubusercontent.com/112872341/212487812-b99c33e3-e67b-41de-9b4c-377d863f1cc9.gif" width="60" height="45">
-
-
-
-
-
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=compact)](https://github.com/Lucas-Lozardo/github-readme-stats)       
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)       
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Lozardo-Apple" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
