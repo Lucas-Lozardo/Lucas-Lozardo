@@ -1,5 +1,10 @@
-### Olá, me chamo Lucas Lozardo!
+### Olá, me chamo Lucas Lozardo! <img src= "https://user-images.githubusercontent.com/112872341/212487812-b99c33e3-e67b-41de-9b4c-377d863f1cc9.gif" width="60" height="45">
 
+
+
+
+
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=compact)](https://github.com/Lucas-Lozardo/github-readme-stats)       
 
 <div style="display: inline_block"><br>
@@ -15,3 +20,5 @@
 </div>
 
 Futuro Dev Back-end, cursando Engenharia de Software pela Universidade Cruzeiro do Sul, adquirindo conhecimento e paixão pela programação a cada dia que passa!!! 
+
+<img src= "https://user-images.githubusercontent.com/112872341/212487829-b118e937-9321-48f2-9e7b-68efe0db367a.gif" width="120" height="90">
