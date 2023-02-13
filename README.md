@@ -8,7 +8,7 @@
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <p align="center">
    <code><img align="center" alt="Lozardo-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
-   <code><img align="center" alt="Lozardo-mySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>
+   <code><img align="center" alt="Lozardo-mySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>     
    </p>
 </div>
 
@@ -17,6 +17,7 @@
       <code><img align="center" alt="Lozardo-Apple" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
       <code><img align="center" alt="Lozardo-Eclipse" height="60" width="80" src="https://skillicons.dev/icons?i=eclipse" /></code>
       <code><img align="center" alt="Lozardo-IOS"  width="80" src="https://user-images.githubusercontent.com/112872341/212735988-ae0ba962-b3d9-4925-8695-1a43426cd01e.png" /></code>
+   <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
    </p>
           
  ##
