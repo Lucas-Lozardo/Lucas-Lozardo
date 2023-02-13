@@ -1,4 +1,4 @@
-### <img width="50" src="https://user-images.githubusercontent.com/112872341/212738090-496bb3bd-1c34-4386-a457-70ce9eb1f14e.png" /> Olá, me chamo Lucas Lozardo! <img src= "https://user-images.githubusercontent.com/112872341/212487812-b99c33e3-e67b-41de-9b4c-377d863f1cc9.gif" width="60" height="45"> 
+### <img width="40" src="https://user-images.githubusercontent.com/112872341/218538818-8606647f-a3b0-4adf-adb2-fd28a7b0948e.png" /> Olá, me chamo Lucas Lozardo! <img src= "https://user-images.githubusercontent.com/112872341/212487812-b99c33e3-e67b-41de-9b4c-377d863f1cc9.gif" width="60" height="45"> 
    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Lozardo&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Lozardo&theme=tokyonight)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lucas-Lozardo&theme=tokyonight&utcOffset=3)
 
@@ -12,9 +12,9 @@
    </p>
 </div>
 
-<h2>:hammer_and_wrench: Ferramentas que eu uso</h2>
+
+<h2>:hammer_and_wrench: <img align="center" alt="Lozardo-Apple" width="30" src="https://user-images.githubusercontent.com/112872341/218538818-8606647f-a3b0-4adf-adb2-fd28a7b0948e.png" /> Ferramentas que uso</h2>
    <p align="center">
-      <code><img align="center" alt="Lozardo-Apple" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /></code>
       <code><img align="center" alt="Lozardo-Eclipse" height="60" width="80" src="https://skillicons.dev/icons?i=eclipse" /></code>
       <code><img align="center" alt="Lozardo-IOS"  width="80" src="https://user-images.githubusercontent.com/112872341/212735988-ae0ba962-b3d9-4925-8695-1a43426cd01e.png" /></code>
    <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
