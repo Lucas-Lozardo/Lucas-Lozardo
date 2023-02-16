@@ -8,7 +8,8 @@
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <p align="center">
    <code><img align="center" alt="Lozardo-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
-   <code><img align="center" alt="Lozardo-mySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code>     
+   <code><img align="center" alt="Lozardo-mySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> 
+   <code><img align="center" alt="Lozardo-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>        
    </p>
 </div>
 
