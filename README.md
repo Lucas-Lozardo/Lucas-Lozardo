@@ -7,20 +7,22 @@
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <p align="center">
-   <code><img align="center" alt="Lozardo-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
-   <code><img align="center" alt="Lozardo-mySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> 
-   <code><img align="center" alt="Lozardo-Spring" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>        
+   <code><img align="center" alt="Lozardo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code>
+   <code><img align="center" alt="Lozardo-mySQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></code> 
+   <code><img align="center" alt="Lozardo-Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>        
    </p>
 </div>
 
 
 <h2>:hammer_and_wrench: <img align="center" alt="Lozardo-Apple" width="30" src="https://user-images.githubusercontent.com/112872341/218538818-8606647f-a3b0-4adf-adb2-fd28a7b0948e.png" /> Ferramentas que uso</h2>
-   <p align="center">
+   <p align="center">  
+      <code><img align="center" alt="Lozardo-IOS" width="80" src="https://user-images.githubusercontent.com/112872341/212735988-ae0ba962-b3d9-4925-8695-1a43426cd01e.png" /></code>
       <code><img align="center" alt="Lozardo-Eclipse" height="60" width="80" src="https://skillicons.dev/icons?i=eclipse" /></code>
-      <code><img align="center" alt="Lozardo-IOS"  width="80" src="https://user-images.githubusercontent.com/112872341/212735988-ae0ba962-b3d9-4925-8695-1a43426cd01e.png" /></code>
-   <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
+      <code><img align="center" alt="Lozardo-Visual Studio Code" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+      <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
+      <code><img align="center" alt="Lozardo-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
    </p>
-          
+               
  ##
  
 <div>
