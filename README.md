@@ -19,6 +19,7 @@
       <code><img align="center" alt="Lozardo-IOS" width="80" src="https://user-images.githubusercontent.com/112872341/212735988-ae0ba962-b3d9-4925-8695-1a43426cd01e.png" /></code>
       <code><img align="center" alt="Lozardo-Eclipse" height="60" width="80" src="https://skillicons.dev/icons?i=eclipse" /></code>
       <code><img align="center" alt="Lozardo-Visual Studio Code" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img align="center" alt="Lozardo-Intellij" width="60" src="https://github.com/Lucas-Lozardo/Lucas-Lozardo/assets/112872341/f59d5cc1-f03b-45f5-876e-1fe73c267da6" /></code>
       <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
       <code><img align="center" alt="Lozardo-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
    </p>
