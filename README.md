@@ -30,6 +30,6 @@
    <a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-Dev Back-end, cursando Engenharia de Software pela Universidade Cruzeiro do Sul, adquirindo conhecimento e paixão pela programação a cada dia que passa!!! 
+Desenvolvedor Back-end em formação, com foco em Java e Kotlin, buscando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores. 
 
 <img src= "https://user-images.githubusercontent.com/112872341/212487829-b118e937-9321-48f2-9e7b-68efe0db367a.gif" width="120" height="90">
