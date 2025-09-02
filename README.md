@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 I’m a **FullStack Developer in progress**, focused on **Java, Spring Boot, RESTful APIs**, and relational databases (**PostgreSQL & H2**).  
-I also work on **frontend development** using **HTML, CSS, and Bootstrap**, and I’m expanding my skills in **containerization with Docker**.  
+I also work on **frontend development** using **HTML, CSS, JavaScript, and Bootstrap**, and I’m expanding my skills in **containerization with Docker**.  
 
 I follow **clean code principles**, implement **automated testing with JUnit and Mockito**, and use **Git for version control**.  
 I’m committed to **continuous learning** and delivering **modern, scalable, and maintainable solutions**.  
@@ -16,6 +16,7 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
    <code><img align="center" alt="Lozardo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> 
    <code><img align="center" alt="Lozardo-Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-Hibernate" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" /></code>
+    <code><img align="center" alt="Lozardo-JavaScript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
    <code><img align="center" alt="Lozardo-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></code>
