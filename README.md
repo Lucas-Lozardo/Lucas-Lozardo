@@ -27,9 +27,11 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
    <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-PostgreSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></code>
+   <code><img align="center" alt="Lozardo-Maven" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" /></code>
    <code><img align="center" alt="Lozardo-Postman" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-IntelliJ" width="60" src="https://github.com/Lucas-Lozardo/Lucas-Lozardo/assets/112872341/f59d5cc1-f03b-45f5-876e-1fe73c267da6" /></code>
    <code><img align="center" alt="Lozardo-VSCode" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+   <code><img align="center" alt="Lozardo-Terminal" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
 </p>
 
 ---
