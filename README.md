@@ -1,12 +1,13 @@
-# Lucas Lozardo C. 🚀
+#  Hi there, I’m Lucas Lozardo 👊
 
-## 💻 About Me
-I’m a **FullStack Developer in progress**, focused on **Java, Spring Boot, RESTful APIs**, and relational databases (**PostgreSQL & H2**).  
-I also work on **frontend development** using **HTML, CSS, JavaScript, and Bootstrap**, and I’m expanding my skills in **containerization with Docker**.  
+A hands-on **Backend Developer**, focused on **Java, Spring Boot, RESTful APIs**, and relational databases (**PostgreSQL**).  
+I also work on **frontend development** using **HTML, CSS, JavaScript, Bootstrap and TailWind CSS**, and I’m expanding my skills in **containerization with Docker**.  
 
 I follow **clean code principles**, implement **automated testing with JUnit and Mockito**, and use **Git for version control**.  
 I’m committed to **continuous learning** and delivering **modern, scalable, and maintainable solutions**.  
 
+<a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:lucaslozardoc@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
 ---
 
 ## 🛠️ Technologies & Tools
@@ -79,9 +80,4 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
 
 ---
 
-## 📫 Contact Me
-<a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
----
-
-*“Continuous learning and building scalable solutions is my passion.”*
+*“Continuous learning and building scalable solutions.”*
