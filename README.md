@@ -11,15 +11,21 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
 
 ## 🛠️ Technologies & Tools
 
-### Languages & Frameworks
+### Primary Languages & Frameworks
 <p align="center">
    <code><img align="center" alt="Lozardo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> 
    <code><img align="center" alt="Lozardo-Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-Hibernate" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" /></code>
-    <code><img align="center" alt="Lozardo-JavaScript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
+</p>
+
+### Secondary Languages & Frameworks
+<p align="center">
+   <code><img align="center" alt="Lozardo-JavaScript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
    <code><img align="center" alt="Lozardo-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /></code>
+   <code><img align="center" alt="Lozardo-TailWindCSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code>
+          
 </p>
 
 ### Tools & DevOps
@@ -31,7 +37,7 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
    <code><img align="center" alt="Lozardo-Postman" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" /></code>
    <code><img align="center" alt="Lozardo-IntelliJ" width="60" src="https://github.com/Lucas-Lozardo/Lucas-Lozardo/assets/112872341/f59d5cc1-f03b-45f5-876e-1fe73c267da6" /></code>
    <code><img align="center" alt="Lozardo-VSCode" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-   <code><img align="center" alt="Lozardo-Terminal" height="50" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>
+   <code><img align="center" alt="Lozardo-ITerm" height="60" width="60" src="https://github.com/user-attachments/assets/b4076aab-0db8-4590-95cb-4dc91d1ace48" /></code>
 </p>
 
 ---
