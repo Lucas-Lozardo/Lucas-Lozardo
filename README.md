@@ -45,29 +45,46 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
 
 ## 📂 Featured Projects
 
-### 1. **consultorioApi-Estudos**
-**Description:** API backend para gerenciamento de clínica, com CRUD de pacientes usando **Java, Spring Boot, PostgreSQL**.  
-**Highlights:** Backend, RESTful APIs, banco de dados, testes automatizados.  
+### 1. AppDriver Finance API (Main Project)
+<p>Description: Backend API for financial management of ride-hailing drivers, including profit calculation and period-based reports.</p>
+<p>Technologies: Java, Spring Boot, PostgreSQL, JPA</p>
+<p>Highlights: Full CRUD, business logic (profit calculation), date-based filtering, layered architecture.</p>
+
+[View Project](https://github.com/Lucas-Lozardo/appDriver-finance)
+
+### 2. Clinic Management API
+<p>Description: Backend API for managing patients, including full CRUD operations and database integration.</p>
+<p>Technologies: Java, Spring Boot, PostgreSQL.</p>
+<p>Highlights: REST API, database persistence, backend architecture.</p>
+
 [View Project](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)
 
-### 2. **loja-cafe-bootstrap5-estudos**
-**Description:** Loja online simulada desenvolvida com **HTML, CSS e Bootstrap 5**, responsiva e adaptada para diferentes dispositivos.  
-**Highlights:** Frontend responsivo, boas práticas de layout e UI.  
-[View Project](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)
+### 3. Backend Challenge
+<p>Description: Backend project focused on business logic implementation and clean code practices.</p>
+<p>Technologies: Java, Spring Boot.</p>
+<p>Highlights: Clean Code, layered structure, RESTful APIs.</p> 
 
-### 3. **challenge-backend7**
-**Description:** Projeto backend avançado com **Java e Spring Boot**, envolvendo lógica de negócios e integração com banco de dados.  
-**Highlights:** Backend avançado, RESTful APIs, clean code.  
 [View Project](https://github.com/Lucas-Lozardo/challenge-backend7)
 
-### 4. **html-css-mobile-first**
-**Description:** Exercício focado em desenvolvimento **mobile-first** usando **HTML e CSS**.  
-**Highlights:** Responsividade, layout adaptável e boas práticas de frontend.  
+### 4. Coffee Shop (Frontend)
+<p>Description: Responsive web interface simulating an online store.</p>
+<p>Technologies: HTML, CSS, Bootstrap.</p>
+<p>Highlights: Responsive design, modern Ul layout.</p>
+   
+[View Project](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)
+
+### 5. Html-css-mobile-first (Frontend)
+<p>Description: Project focused on development with mobile-first.</p>
+<p>Technologies: HTML, CSS.</p>
+<p>Highlights: Responsiveness, adaptable layout, and frontend best practices.</p> 
+
 [View Project](https://github.com/Lucas-Lozardo/html-css-mobile-first)
 
-### 5. **carrinho-de-compras-estudo**
-**Description:** Sistema de carrinho de compras com frontend em **HTML, CSS e JavaScript básico**.  
-**Highlights:** Interatividade, manipulação de DOM e lógica de frontend.  
+### 6. Carrinho-de-compras-estudo (Frontend)
+<p>Description: Shopping cart system.</p>
+<p>Technologies: HTML, CSS, JS</p>
+<p>Highlights: Interactivity, DOM manipulation, and frontend logic.</p> 
+
 [View Project](https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo)
 
 ---
