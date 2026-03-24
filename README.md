@@ -1,13 +1,14 @@
 #  Hi there, I’m Lucas Lozardo 👊
 
-A hands-on **Backend Developer**, focused on **Java, Spring Boot, RESTful APIs**, and relational databases (**PostgreSQL**).  
-I also work on **frontend development** using **HTML, CSS, JavaScript, Bootstrap and TailWind CSS**, and I’m expanding my skills in **containerization with Docker**.  
+Backend Developer specialized in building scalable and business-driven systems using Java, Spring Boot, and PostgreSQL.
 
-I follow **clean code principles**, implement **automated testing with JUnit and Mockito**, and use **Git for version control**.  
-I’m committed to **continuous learning** and delivering **modern, scalable, and maintainable solutions**.  
+I develop backend applications with a strong focus on business logic, clean architecture, and scalability.
+
+Currently building solutions that solve real problems, such as financial control systems and management APIs.
 
 <a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:lucaslozardoc@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -45,47 +46,100 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
 
 ## 📂 Featured Projects
 
-### 1. AppDriver Finance API (Main Project)
-<p>Description: Backend API for financial management of ride-hailing drivers, including profit calculation and period-based reports.</p>
-<p>Technologies: Java, Spring Boot, PostgreSQL, JPA</p>
-<p>Highlights: Full CRUD, business logic (profit calculation), date-based filtering, layered architecture.</p>
+### 1. AppDriver Finance API (Flagship Project)
 
-[View Project](https://github.com/Lucas-Lozardo/appDriver-finance)
+API designed to help ride-hailing drivers understand their real profit after expenses — solving a common financial visibility problem.
 
+Tech:
+- Java, Spring Boot, PostgreSQL, JPA
+
+Highlights:
+- Real-world problem solving (financial visibility for drivers)
+- Business logic for profit calculation
+- Date-based financial reports
+- Layered architecture (Controller, Service, Repository)
+- RESTful endpoints
+
+🔗 View Project: https://github.com/Lucas-Lozardo/appDriver-finance
+
+##
 ### 2. Clinic Management API
-<p>Description: Backend API for managing patients, including full CRUD operations and database integration.</p>
-<p>Technologies: Java, Spring Boot, PostgreSQL.</p>
-<p>Highlights: REST API, database persistence, backend architecture.</p>
 
-[View Project](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)
+Backend API designed to manage patient data and streamline basic clinic operations, improving organization and data access.
 
+Tech:
+- Java, Spring Boot, PostgreSQL
+
+Highlights:
+- Full CRUD for patient management
+- Database integration with JPA/Hibernate
+- Layered architecture (Controller, Service, Repository)
+- RESTful API design
+
+🔗 View Project: https://github.com/Lucas-Lozardo/consultorioApi-Estudos
+
+##
 ### 3. Backend Challenge
-<p>Description: Backend project focused on business logic implementation and clean code practices.</p>
-<p>Technologies: Java, Spring Boot.</p>
-<p>Highlights: Clean Code, layered structure, RESTful APIs.</p> 
 
-[View Project](https://github.com/Lucas-Lozardo/challenge-backend7)
+Backend application focused on implementing business rules and applying clean code principles in a structured API.
 
+Tech:
+- Java, Spring Boot
+
+Highlights:
+- Emphasis on clean code and readability
+- Layered architecture with clear separation of concerns
+- RESTful endpoints following best practices
+- Business logic implementation
+
+🔗 View Project: https://github.com/Lucas-Lozardo/challenge-backend7
+
+##
+💡 Note:
+Frontend projects are focused on supporting backend integration and understanding client-side behavior.
 ### 4. Coffee Shop (Frontend)
-<p>Description: Responsive web interface simulating an online store.</p>
-<p>Technologies: HTML, CSS, Bootstrap.</p>
-<p>Highlights: Responsive design, modern Ul layout.</p>
-   
-[View Project](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)
 
-### 5. Html-css-mobile-first (Frontend)
-<p>Description: Project focused on development with mobile-first.</p>
-<p>Technologies: HTML, CSS.</p>
-<p>Highlights: Responsiveness, adaptable layout, and frontend best practices.</p> 
+Responsive web interface simulating an online coffee store, focused on layout structure and user experience.
 
-[View Project](https://github.com/Lucas-Lozardo/html-css-mobile-first)
+Tech:
+- HTML, CSS, Bootstrap
 
-### 6. Carrinho-de-compras-estudo (Frontend)
-<p>Description: Shopping cart system.</p>
-<p>Technologies: HTML, CSS, JS</p>
-<p>Highlights: Interactivity, DOM manipulation, and frontend logic.</p> 
+Highlights:
+- Responsive design for multiple screen sizes
+- Clean and modern UI layout
+- Component-based structure using Bootstrap
 
-[View Project](https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo)
+🔗 View Project: https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos
+
+##
+### 5. HTML/CSS Mobile First
+
+Frontend project built using the mobile-first approach, ensuring optimized experience for smaller devices.
+
+Tech:
+- HTML, CSS
+
+Highlights:
+- Mobile-first design strategy
+- Responsive and adaptable layout
+- Best practices for modern CSS structuring
+
+🔗 View Project: https://github.com/Lucas-Lozardo/html-css-mobile-first
+
+##
+### 6. Shopping Cart (Frontend)
+
+Interactive shopping cart application demonstrating dynamic behavior and frontend logic using JavaScript.
+
+Tech:
+- HTML, CSS, JavaScript
+
+Highlights:
+- DOM manipulation and event handling
+- Dynamic cart updates (add/remove items)
+- Frontend logic for user interaction
+
+🔗 View Project: https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo
 
 ---
 
@@ -97,4 +151,4 @@ I’m committed to **continuous learning** and delivering **modern, scalable, an
 
 ---
 
-*“Continuous learning and building scalable solutions.”*
+*"Focused on building scalable backend systems that solve real business problems."*
