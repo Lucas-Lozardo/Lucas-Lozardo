@@ -20,12 +20,23 @@
 ---
 
 ## 📂 Featured Projects
-1. [AppDriver Finance API](https://github.com/Lucas-Lozardo/appDriver-finance) — Flagship Project  
+1. [AppDriver Finance API - "Flagship Project"](https://github.com/Lucas-Lozardo/appDriver-finance)  
+   Financial API for calculating real profit of ride-hailing drivers.
+
 2. [Clinic Management API](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)  
+    Backend system for managing patient data and clinic operations.
+   
 3. [Backend Challenge](https://github.com/Lucas-Lozardo/challenge-backend7)  
+    API focused on clean code and business logic implementation.
+
 4. [Coffee Shop (Frontend)](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)  
+   Responsive UI built with Bootstrap.
+
 5. [HTML/CSS Mobile First (Frontend)](https://github.com/Lucas-Lozardo/html-css-mobile-first)  
+   Mobile-first responsive layout.
+
 6. [Shopping Cart (Frontend)](https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo)  
+   API focused on clean code and business logic implementation.
   
 ---
 
