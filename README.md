@@ -3,35 +3,12 @@
 <p><strong>Backend Developer</strong> building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.</p>
 <p>Focused on clean architecture, maintainable code, and real-world business logic.</p>
 
-<a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:lucaslozardoc@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
-<a href="https://github.com/lucas-lozardo" target="_blank"><img src="https://komarev.com/ghpvc/?username=lucas-lozardo&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lozardo) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslozardoc@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=lucas-lozardo&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
-## 🛠️ Technologies & Tools
-### Primary Languages & Frameworks
-<p align="center">
-  <code><img align="center" alt="Lozardo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> 
-  <code><img align="center" alt="Lozardo-Spring" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /></code>
-
-### Secondary Languages & Frameworks
-<p align="center">
-  <code><img align="center" alt="Lozardo-HTML" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-JavaScript" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></code>
-  <code><img align="center" alt="Lozardo-TailWindCSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></code></p>
-
-### Tools & DevOps
-<p align="center"> 
-  <code><img align="center" alt="Lozardo-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-PostgreSQL" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-Maven" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" /></code>
-  <code><img align="center" alt="Lozardo-Postman" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain-wordmark.svg" /></code>
-  <code><img align="center" alt="Lozardo-IntelliJ" width="60" src="https://github.com/Lucas-Lozardo/Lucas-Lozardo/assets/112872341/f59d5cc1-f03b-45f5-876e-1fe73c267da6" /></code>
-  <code><img align="center" alt="Lozardo-VSCode" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-  <code><img align="center" alt="Lozardo-ITerm" height="60" width="60" src="https://github.com/user-attachments/assets/b4076aab-0db8-4590-95cb-4dc91d1ace48" /></code></p>
+## 🛠️ Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,tailwind,git,docker,postgres,maven,postman,idea,vscode,terminal&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -53,6 +30,4 @@
 
 ---
 
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=970&lines=%22Focused+on+building+scalable+backend+systems+that+solve+real+business+problems.%22" alt="Typing SVG" /></a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=980&lines=%22Focused+on+building+scalable+backend+systems+that+solve+real+business+problems.%22)](https://git.io/typing-svg)
