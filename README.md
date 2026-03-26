@@ -3,6 +3,8 @@
 <p><strong>Backend Developer</strong> building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.</p>
 <p>Focused on clean architecture, maintainable code, and real-world business logic.</p>
 
+✔ REST APIs • ✔ Layered Architecture • ✔ Database Modeling • ✔ Business Logic
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lozardo) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaslozardoc@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=lucas-lozardo&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
@@ -35,4 +37,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=980&lines=%22Focused+on+building+scalable+backend+systems+that+solve+real+business+problems.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&multiline=true&width=980&height=60&lines=%E2%80%9CThe+function+of+good+software+is+to+make+the+complex+appear+simple.%E2%80%9D+;Grady+Booch+-+Software+Engineer)](https://git.io/typing-svg)
+
+
