@@ -13,8 +13,7 @@
 
 <div align="center">
 
-  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,html,css,js,tailwind,git,docker,postgres,maven,postman,figma,idea,vscode,excel&theme=dark)](https://skillicons.dev)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,postgresql,maven,html,css,js,tailwind,git,docker,postman,idea,vscode,figma,excel&theme=dark)](https://skillicons.dev)
 
 Java • Spring Boot • PostgreSQL • Docker
 
