@@ -20,7 +20,7 @@
 ---
 
 ## 📂 Featured Projects
-1. [AppDriver Finance API - "Flagship Project"](https://github.com/Lucas-Lozardo/appDriver-finance)  
+1. [AppDriver Finance API - Flagship Project](https://github.com/Lucas-Lozardo/appDriver-finance)  
    Financial API for calculating real profit of ride-hailing drivers.
 
 2. [Clinic Management API](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)  
