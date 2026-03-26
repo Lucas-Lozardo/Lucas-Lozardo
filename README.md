@@ -1,7 +1,7 @@
-#  Hi there, I’m Lucas Lozardo 👊
+#  Hi, I’m Lucas Lozardo 👊 💻
 
-<p><strong>Backend Developer</strong> building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.</p>
-<p>Focused on clean architecture, maintainable code, and real-world business logic.</p>
+<p><strong>Backend Developer</strong> building scalable, business-driven systems with Java, Spring Boot, and PostgreSQL.<br>
+  Focused on clean architecture, maintainable code, and solving real-world business problems.</p>
 
 ✔ REST APIs • ✔ Layered Architecture • ✔ Database Modeling • ✔ Business Logic
 
