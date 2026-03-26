@@ -7,7 +7,8 @@ I develop backend applications with a strong focus on business logic, clean arch
 Currently building solutions that solve real problems, such as financial control systems and management APIs.
 
 <a href="https://www.linkedin.com/in/lucas-lozardo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:lucaslozardoc@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
+<a href="mailto:lucaslozardoc@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/></a>
+<a href="https://github.com/lucas-lozardo" target="_blank"><img src="https://komarev.com/ghpvc/?username=lucas-lozardo&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS" />
 
 ---
 
