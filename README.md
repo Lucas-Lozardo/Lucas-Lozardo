@@ -10,7 +10,6 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
 ### Primary Languages & Frameworks
 <p align="center">
   <code><img align="center" alt="Lozardo-Java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></code> 
@@ -37,121 +36,23 @@
 ---
 
 ## 📂 Featured Projects
-
-<div>
-
-### 1. AppDriver Finance API (Flagship Project)
-
-API designed to help ride-hailing drivers understand their real profit after expenses — solving a common financial visibility problem.
-
-Tech:
-- Java, Spring Boot, PostgreSQL, JPA
-
-Highlights:
-- Real-world problem solving (financial visibility for drivers)
-- Business logic for profit calculation
-- Date-based financial reports
-- Layered architecture (Controller, Service, Repository)
-- RESTful endpoints
-
-🔗 View Project: https://github.com/Lucas-Lozardo/appDriver-finance
-
-##
-### 2. Clinic Management API
-
-Backend API designed to manage patient data and streamline basic clinic operations, improving organization and data access.
-
-Tech:
-- Java, Spring Boot, PostgreSQL
-
-Highlights:
-- Full CRUD for patient management
-- Database integration with JPA/Hibernate
-- Layered architecture (Controller, Service, Repository)
-- RESTful API design
-
-🔗 View Project: https://github.com/Lucas-Lozardo/consultorioApi-Estudos
-
-##
-### 3. Backend Challenge
-
-Backend application focused on implementing business rules and applying clean code principles in a structured API.
-
-Tech:
-- Java, Spring Boot
-
-Highlights:
-- Emphasis on clean code and readability
-- Layered architecture with clear separation of concerns
-- RESTful endpoints following best practices
-- Business logic implementation
-
-🔗 View Project: https://github.com/Lucas-Lozardo/challenge-backend7
-
-##
-💡 Note:
-Frontend projects are focused on supporting backend integration and understanding client-side behavior.
-### 4. Coffee Shop (Frontend)
-
-Responsive web interface simulating an online coffee store, focused on layout structure and user experience.
-
-Tech:
-- HTML, CSS, Bootstrap
-
-Highlights:
-- Responsive design for multiple screen sizes
-- Clean and modern UI layout
-- Component-based structure using Bootstrap
-
-🔗 View Project: https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos
-
-##
-### 5. HTML/CSS Mobile First
-
-Frontend project built using the mobile-first approach, ensuring optimized experience for smaller devices.
-
-Tech:
-- HTML, CSS
-
-Highlights:
-- Mobile-first design strategy
-- Responsive and adaptable layout
-- Best practices for modern CSS structuring
-
-🔗 View Project: https://github.com/Lucas-Lozardo/html-css-mobile-first
-
-##
-### 6. Shopping Cart (Frontend)
-
-Interactive shopping cart application demonstrating dynamic behavior and frontend logic using JavaScript.
-
-Tech:
-- HTML, CSS, JavaScript
-
-Highlights:
-- DOM manipulation and event handling
-- Dynamic cart updates (add/remove items)
-- Frontend logic for user interaction
-
-🔗 View Project: https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo
-
-</div>
+1. [AppDriver Finance API](https://github.com/Lucas-Lozardo/appDriver-finance) — Flagship Project  
+2. [Clinic Management API](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)  
+3. [Backend Challenge](https://github.com/Lucas-Lozardo/challenge-backend7)  
+4. [Coffee Shop (Frontend)](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)  
+5. [HTML/CSS Mobile First (Frontend)](https://github.com/Lucas-Lozardo/html-css-mobile-first)  
+6. [Shopping Cart (Frontend)](https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo)  
   
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  
   <img height="195" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lozardo&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="195" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=donut&theme=tokyonight" />
-   
 </div>
 
 ---
 
 <div align="center">
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=970&lines=%22Focused+on+building+scalable+backend+systems+that+solve+real+business+problems.%22" alt="Typing SVG" /></a>
-
 </div>
