@@ -12,8 +12,11 @@
 ## 🛠️ Technologies
 
 <div align="center">
+
   
 [![My Skills](https://skillicons.dev/icons?i=java,spring,html,css,js,tailwind,git,docker,postgres,maven,postman,idea,vscode&theme=dark)](https://skillicons.dev)
+
+Java • Spring Boot • PostgreSQL • Docker
 
 </div>
 
@@ -48,6 +51,6 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&multiline=true&width=980&height=60&lines=%E2%80%9CThe+function+of+good+software+is+to+make+the+complex+appear+simple.%E2%80%9D+;Grady+Booch+-+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&multiline=true&width=980&height=60&lines=%E2%80%9CThe+function+of+good+software+is+to+make+the+complex+appear+simple.%E2%80%9D+;Grady+Booch+,+Software+Engineer)](https://git.io/typing-svg)
 
 
