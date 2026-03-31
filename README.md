@@ -21,15 +21,20 @@ Java • Spring Boot • PostgreSQL • Docker
 
 ---
 
+<table align="center">
+  <tr>
+    <td valign="top" width="65%">
+
 ## 📂 Featured Projects
+
 1. [AppDriver Finance API - Flagship Project](https://github.com/Lucas-Lozardo/appDriver-finance)  
    Financial API for calculating real profit of ride-hailing drivers.
 
 2. [Clinic Management API](https://github.com/Lucas-Lozardo/consultorioApi-Estudos)  
-    Backend system for managing patient data and clinic operations.
-   
+   Backend system for managing patient data and clinic operations.
+
 3. [Backend Challenge](https://github.com/Lucas-Lozardo/challenge-backend7)  
-    API focused on clean code and business logic implementation.
+   API focused on clean code and business logic implementation.
 
 4. [Coffee Shop (Frontend)](https://github.com/Lucas-Lozardo/loja-cafe-bootstrap5-estudos)  
    Responsive UI built with Bootstrap.
@@ -39,13 +44,17 @@ Java • Spring Boot • PostgreSQL • Docker
 
 6. [Shopping Cart (Frontend)](https://github.com/Lucas-Lozardo/carrinho-de-compras-estudo)  
    Dynamic shopping cart with JavaScript and DOM manipulation.
-  
----
+
+    </td>
+
+    <td valign="top" width="35%" align="center">
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="195" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=donut&theme=tokyonight" />
-</div>
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=donut&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
 ---
 
