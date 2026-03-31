@@ -44,7 +44,6 @@ Java • Spring Boot • PostgreSQL • Docker
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="195" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Lucas-Lozardo&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="195" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=donut&theme=tokyonight" />
 </div>
 
