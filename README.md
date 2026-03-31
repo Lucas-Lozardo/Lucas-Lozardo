@@ -51,7 +51,8 @@ Java • Spring Boot • PostgreSQL • Docker
 
 ## 📊 GitHub Stats
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Lozardo&layout=donut&theme=tokyonight" />
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lucas-Lozardo&theme=tokyonight)
+![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Lozardo&theme=tokyonight)
     </td>
   </tr>
 </table>
